@@ -1,0 +1,3448 @@
+[
+  {
+    "user_registered": "2017-04-05 13:59:09",
+    "org_code": "5932",
+    "organization": "Avera McKennan Hospital and University Health Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-12-05 14:13:44",
+    "org_code": "5957",
+    "organization": "John Peter Smith Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2017-09-22 20:13:36",
+    "org_code": "5469",
+    "organization": "Southside Hospital at Northwell Health"
+  },
+  {
+    "user_registered": "2019-07-01 14:18:07",
+    "org_code": "7298",
+    "organization": "MercyOne Des Moines Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-07-12 21:21:56",
+    "org_code": "6479",
+    "organization": "MultiCare Health System - South Puget Sound",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:16:37",
+    "org_code": "1006",
+    "organization": "Abington Health",
+    "total": null
+  },
+  {
+    "user_registered": "2022-03-14 16:32:08",
+    "org_code": "1371",
+    "organization": "H. Lee Moffitt Cancer Center and Research Institute",
+    "total": null
+  },
+  {
+    "user_registered": "2017-12-04 05:31:28",
+    "org_code": "7000",
+    "organization": "Children's Hospital Los Angeles",
+    "total": 11
+  },
+  {
+    "user_registered": "2018-03-23 16:24:03",
+    "org_code": "1099",
+    "organization": "Long Island Jewish Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-11-10 15:13:07",
+    "org_code": "6141",
+    "organization": "Alexian Brothers Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2018-03-23 17:05:10",
+    "org_code": "3921",
+    "organization": "Children's Hospitals and Clinics of Minnesota",
+    "total": 9
+  },
+  {
+    "user_registered": "2021-11-02 21:34:56",
+    "org_code": "7499",
+    "organization": "Mercy Hospital Springfield Communities",
+    "total": null
+  },
+  {
+    "user_registered": "2018-05-24 19:09:25",
+    "org_code": "7188",
+    "organization": "Adena Regional Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-03-19 16:46:46",
+    "org_code": "9999",
+    "organization": "LaunchPad Media"
+  },
+  {
+    "user_registered": "2020-08-13 14:25:52",
+    "org_code": "1215",
+    "organization": "University of Iowa Hospitals and Clinics",
+    "total": null
+  },
+  {
+    "user_registered": "2021-10-11 17:12:52",
+    "org_code": "7455",
+    "organization": "Essentia Health - St. Joseph's Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-02-28 21:33:01",
+    "org_code": "5775",
+    "organization": "Auckland City Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2022-12-28 18:21:19",
+    "org_code": "1370",
+    "organization": "The University of Texas MD Anderson Cancer Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-01-02 20:29:14",
+    "org_code": "5795",
+    "organization": "LifeSource- Upper Midwest Organ Procurement Organization"
+  },
+  {
+    "user_registered": "2016-05-09 14:33:38",
+    "org_code": "5347",
+    "organization": "Saint Agnes Hospital, Maryland",
+    "total": 4
+  },
+  {
+    "user_registered": "2017-02-28 21:22:06",
+    "org_code": "6169",
+    "organization": "Staten Island University Hospital Northwell",
+    "total": null
+  },
+  {
+    "user_registered": "2018-12-07 15:53:26",
+    "org_code": "7251",
+    "organization": "BC Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-08-17 20:17:27",
+    "org_code": "1143",
+    "organization": "NSMC Salem Hospital",
+    "total": 3
+  },
+  {
+    "user_registered": "2019-02-20 16:17:44",
+    "org_code": "7242",
+    "organization": "Sentara Martha Jefferson Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2020-10-29 14:06:24",
+    "org_code": "7407",
+    "organization": "St. Joseph's Healthcare Hamilton",
+    "total": null
+  },
+  {
+    "user_registered": "2021-03-16 21:51:42",
+    "org_code": "1212",
+    "organization": "University of Chicago Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-08-11 15:36:51",
+    "org_code": "7456",
+    "organization": "Essentia Health - St. Mary's Medical Center"
+  },
+  {
+    "user_registered": "2016-04-19 20:05:46",
+    "org_code": "4071",
+    "organization": "Mercy General Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2019-10-25 13:33:34",
+    "org_code": "7302",
+    "organization": "Texas Scottish Rite Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2017-12-21 21:37:18",
+    "org_code": "4794",
+    "organization": "Arkansas Children's Hospital",
+    "total": 2
+  },
+  {
+    "user_registered": "2022-08-01 03:06:15",
+    "org_code": "7578",
+    "organization": "Frankston Hospital"
+  },
+  {
+    "user_registered": "2020-11-25 20:42:00",
+    "org_code": "7234",
+    "organization": "Cheshire Medical Center"
+  },
+  {
+    "user_registered": "2016-05-13 17:36:57",
+    "org_code": "3939",
+    "organization": "Dartmouth Hitchcock Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-12-15 19:47:52",
+    "org_code": "5654",
+    "organization": "UCSF Benioff Children's Hospital Oakland"
+  },
+  {
+    "user_registered": "2018-08-07 19:47:20",
+    "org_code": "3881",
+    "organization": "Rady Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-08-30 17:32:18",
+    "org_code": "7480",
+    "organization": "Manchester Memorial Hospital",
+    "total": 6
+  },
+  {
+    "user_registered": "2021-12-14 14:44:59",
+    "org_code": "7494",
+    "organization": "Reading Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2019-06-13 23:50:14",
+    "org_code": "3839",
+    "organization": "SCL Health-Saint Joseph Hospital",
+    "total": 12
+  },
+  {
+    "user_registered": "2017-01-11 17:21:55",
+    "org_code": "5915",
+    "organization": "Kaiser Permanente Vallejo Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2022-12-01 13:16:21",
+    "org_code": "4340",
+    "organization": "Legacy Health"
+  },
+  {
+    "user_registered": "2016-11-18 20:57:23",
+    "org_code": "1216",
+    "organization": "University of Michigan Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-08-15 15:19:46",
+    "org_code": "3817",
+    "organization": "Grady Memorial Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2017-10-16 16:18:46",
+    "org_code": "1003",
+    "organization": "Akron Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2017-02-21 21:13:13",
+    "org_code": "1080",
+    "organization": "Henry Ford Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-03-07 13:48:14",
+    "org_code": "Compassion",
+    "organization": "The Schwartz Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:46:13",
+    "org_code": "1052",
+    "organization": "Elliot Health System",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 18:41:33",
+    "org_code": "5408",
+    "organization": "University of Maryland Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-03 10:46:38",
+    "org_code": "Pointofcare",
+    "organization": "Point of Care Foundation"
+  },
+  {
+    "user_registered": "2021-05-31 03:11:21",
+    "org_code": "7434",
+    "organization": "Highland Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-10 21:45:55",
+    "org_code": "4462",
+    "organization": "University of Washington Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-07-23 18:36:40",
+    "org_code": "7490",
+    "organization": "Millard Fillmore Suburban Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-07-29 15:31:41",
+    "org_code": "4154",
+    "organization": "Lucile Salter Packard Children's Hospital at Stanford",
+    "total": null
+  },
+  {
+    "user_registered": "2018-01-18 22:15:45",
+    "org_code": "6582",
+    "organization": "Queens Health System",
+    "total": null
+  },
+  {
+    "user_registered": "2020-08-07 18:01:09",
+    "org_code": "3911",
+    "organization": "PeaceHealth Southwest Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-22 15:22:32",
+    "org_code": "4586",
+    "organization": "Holland Bloorview Kids Rehabilitation Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-08-04 14:55:41",
+    "org_code": "5772",
+    "organization": "Vancouver Island Health Authority / Island Health",
+    "total": null
+  },
+  {
+    "user_registered": "2020-09-24 20:24:41",
+    "org_code": "1020",
+    "organization": "Brigham and Women's Hospital"
+  },
+  {
+    "user_registered": "2020-01-16 14:46:48",
+    "org_code": "3754",
+    "organization": "UCSD Jacobs Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2018-11-15 20:05:15",
+    "org_code": "7237",
+    "organization": "KU Department of Pediatrics",
+    "total": null
+  },
+  {
+    "user_registered": "2020-06-12 18:26:08",
+    "org_code": "1067",
+    "organization": "Hackensack University Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2022-08-09 12:14:35",
+    "org_code": "3829",
+    "organization": "Salinas Valley Memorial Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-09-16 16:15:31",
+    "org_code": "7436",
+    "organization": "The Ottawa Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2017-06-05 22:19:33",
+    "org_code": "5428",
+    "organization": "Kaiser Permanente Downey Medical Center",
+    "total": 8
+  },
+  {
+    "user_registered": "2016-05-11 01:51:16",
+    "org_code": "4690",
+    "organization": "University of Utah Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-21 17:51:13",
+    "org_code": "5660",
+    "organization": "Providence Willamette Falls Medical Center"
+  },
+  {
+    "user_registered": "2016-05-06 14:24:32",
+    "org_code": "5463",
+    "organization": "Mission Hospital, North Carolina",
+    "total": null
+  },
+  {
+    "user_registered": "2021-12-20 16:24:09",
+    "org_code": "1111",
+    "organization": "Mayo Clinic Florida",
+    "total": null
+  },
+  {
+    "user_registered": "2021-05-17 16:33:57",
+    "org_code": "1023",
+    "organization": "Buffalo General Medical Center/Gates Vascular Institute",
+    "total": null
+  },
+  {
+    "user_registered": "2023-03-20 02:36:47",
+    "org_code": "7667",
+    "organization": "Richmond Fellowship Queensland",
+    "total": 4
+  },
+  {
+    "user_registered": "2020-07-22 01:40:47",
+    "org_code": "7387",
+    "organization": "Counties Manukau Health",
+    "total": null
+  },
+  {
+    "user_registered": "2016-08-19 17:53:36",
+    "org_code": "4249",
+    "organization": "New Hanover Regional Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 21:50:49",
+    "org_code": "1249",
+    "organization": "Children's Hospital Colorado",
+    "total": null
+  },
+  {
+    "user_registered": "2022-09-19 23:17:24",
+    "org_code": "7486",
+    "organization": "Children's Hospital New Orleans",
+    "total": 10
+  },
+  {
+    "user_registered": "2016-05-17 14:22:15",
+    "org_code": "1207",
+    "organization": "UMass Memorial Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-10 21:29:28",
+    "org_code": "1170",
+    "organization": "Seattle Cancer Care Alliance"
+  },
+  {
+    "user_registered": "2020-10-22 15:56:20",
+    "org_code": "7408",
+    "organization": "White Plains Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:38:42",
+    "org_code": "4087",
+    "organization": "Kaiser Permanente San Leandro Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 19:37:57",
+    "org_code": "5672",
+    "organization": "Royal University Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-29 19:51:57",
+    "org_code": "5529",
+    "organization": "Glendale Center"
+  },
+  {
+    "user_registered": "2021-12-21 19:44:29",
+    "org_code": "7517",
+    "organization": "SCL Lutheran Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-04-24 15:27:14",
+    "org_code": "6386",
+    "organization": "Willow Manor",
+    "total": 2
+  },
+  {
+    "user_registered": "2018-06-11 14:58:24",
+    "org_code": "5035",
+    "organization": "Children's Healthcare of Atlanta",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-16 20:06:55",
+    "org_code": "3843",
+    "organization": "Children's Medical Center Dallas",
+    "total": null
+  },
+  {
+    "user_registered": "2021-07-13 18:26:59",
+    "org_code": "7467",
+    "organization": "Huntington Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2022-08-25 12:27:11",
+    "org_code": "6422",
+    "organization": "Westmead Hospital",
+    "total": 7
+  },
+  {
+    "user_registered": "2017-07-12 21:21:51",
+    "org_code": "6366",
+    "organization": "Monash Health",
+    "total": null
+  },
+  {
+    "user_registered": "2023-02-22 00:09:39",
+    "org_code": "7663",
+    "organization": "Flinders Medical Centre"
+  },
+  {
+    "user_registered": "2020-10-20 14:49:08",
+    "org_code": "7393",
+    "organization": "Blue Cross Blue Shield of Massachusetts - Health & Medical Management",
+    "total": null
+  },
+  {
+    "user_registered": "2016-07-26 20:26:16",
+    "org_code": "1381",
+    "organization": "Wentworth-Douglass Hospital"
+  },
+  {
+    "user_registered": "2022-06-16 12:14:22",
+    "org_code": "7590",
+    "organization": "WVU Medicine Camden Clark Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-01-04 16:00:05",
+    "org_code": "1008",
+    "organization": "Baptist Health Wolfson Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-03-26 21:42:42",
+    "org_code": "1426",
+    "organization": "Texas Health Arlington Memorial Hospital"
+  },
+  {
+    "user_registered": "2020-08-31 16:05:11",
+    "org_code": "6451",
+    "organization": "Massachusetts General Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-07-12 13:58:15",
+    "org_code": "5349",
+    "organization": "Circle Health Lowell General Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2018-01-31 23:59:12",
+    "org_code": "6552",
+    "organization": "Alamance Regional Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-08-06 01:06:49",
+    "org_code": "7296",
+    "organization": "RWJBarnabas Health Behavioral Health Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-05-23 00:33:59",
+    "org_code": "7266",
+    "organization": "Parkland Health & Hospital System",
+    "total": null
+  },
+  {
+    "user_registered": "2020-07-30 22:34:23",
+    "org_code": "7328",
+    "organization": "The Children's Mercy Hospital",
+    "total": 6
+  },
+  {
+    "user_registered": "2022-06-23 12:13:36",
+    "org_code": "7573",
+    "organization": "Samaritan Lebanon Community Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2020-03-31 21:14:54",
+    "org_code": "7363",
+    "organization": "St. Joseph's Hospital and Medical Center",
+    "total": 4
+  },
+  {
+    "user_registered": "2022-09-12 18:58:39",
+    "org_code": "3919",
+    "organization": "NYC Health + Hospitals/Bellevue Hospital",
+    "total": 3
+  },
+  {
+    "user_registered": "2020-08-26 19:00:50",
+    "org_code": "1130",
+    "organization": "Montefiore Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:36:18",
+    "org_code": "1337",
+    "organization": "Florida Hospital Orlando",
+    "total": null
+  },
+  {
+    "user_registered": "2020-02-20 01:41:04",
+    "org_code": "7323",
+    "organization": "OU Medical Center"
+  },
+  {
+    "user_registered": "2017-03-28 22:35:12",
+    "org_code": "5554",
+    "organization": "Kaiser Permanente San Francisco",
+    "total": 13
+  },
+  {
+    "user_registered": "2020-12-09 22:01:12",
+    "org_code": "7428",
+    "organization": "The Children's Hospital at Westmead",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-11 17:07:38",
+    "org_code": "3856",
+    "organization": "Spectrum Health- Grand Rapids Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-11-18 21:42:40",
+    "org_code": "7511",
+    "organization": "HSHS Medical Group",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:48:02",
+    "org_code": "3403",
+    "organization": "Morton Plant Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-20 13:03:00",
+    "org_code": "1045",
+    "organization": "Danbury Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:15:39",
+    "org_code": "4750",
+    "organization": "Carolinas Medical Center"
+  },
+  {
+    "user_registered": "2017-02-15 16:49:07",
+    "org_code": "5471",
+    "organization": "Montreal Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2019-10-14 19:30:21",
+    "org_code": "7307",
+    "organization": "The Children's Hospital at OU Medicine",
+    "total": null
+  },
+  {
+    "user_registered": "2020-04-30 15:45:32",
+    "org_code": "7211",
+    "organization": "SSM Health",
+    "total": null
+  },
+  {
+    "user_registered": "2017-06-01 18:32:11",
+    "org_code": "6274",
+    "organization": "Donor Network West",
+    "total": null
+  },
+  {
+    "user_registered": "2019-05-13 16:55:12",
+    "org_code": "1084",
+    "organization": "Hospital of the University of Pennsylvania",
+    "total": null
+  },
+  {
+    "user_registered": "2019-08-07 14:51:21",
+    "org_code": "6317",
+    "organization": "NYC Health+Hospitals/Woodhull",
+    "total": null
+  },
+  {
+    "user_registered": "2016-08-24 15:06:23",
+    "org_code": "3930",
+    "organization": "Virginia Treatment Center for Children",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 19:05:28",
+    "org_code": "4505",
+    "organization": "Kaiser Permanente South San Francisco Medical Center"
+  },
+  {
+    "user_registered": "2016-06-17 16:18:40",
+    "org_code": "4921",
+    "organization": "Kaiser Permanente Fresno Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2018-10-18 15:21:14",
+    "org_code": "3774",
+    "organization": "Oregon Health & Science University",
+    "total": null
+  },
+  {
+    "user_registered": "2016-08-31 16:14:13",
+    "org_code": "1127",
+    "organization": "Beth Israel Deaconess Hospital Milton",
+    "total": 3
+  },
+  {
+    "user_registered": "2022-04-26 22:41:36",
+    "org_code": "7583",
+    "organization": "AMN Healthcare",
+    "total": 4
+  },
+  {
+    "user_registered": "2022-03-10 13:08:12",
+    "org_code": "7500",
+    "organization": "Mercy Hospital St. Louis",
+    "total": null
+  },
+  {
+    "user_registered": "2021-10-21 16:26:23",
+    "org_code": "7470",
+    "organization": "Nicklaus Children's Hospital",
+    "total": 2
+  },
+  {
+    "user_registered": "2022-10-04 13:24:58",
+    "org_code": "7596",
+    "organization": "Aspirus Wausau Hospital",
+    "total": 6
+  },
+  {
+    "user_registered": "2018-01-25 20:57:08",
+    "org_code": "4863",
+    "organization": "Kaiser Permanente Vacaville Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-25 16:08:08",
+    "org_code": "5474",
+    "organization": "Westfields Hospital & Clinic"
+  },
+  {
+    "user_registered": "2020-12-07 20:47:37",
+    "org_code": "1308",
+    "organization": "UK Albert B. Chandler Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-06-03 17:19:31",
+    "org_code": "3728",
+    "organization": "Cincinnati Children's Hospital Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-03-18 18:40:22",
+    "org_code": "7274",
+    "organization": "Avera St. Mary's Hospital"
+  },
+  {
+    "user_registered": "2016-04-19 20:43:25",
+    "org_code": "1345",
+    "organization": "Gillette Children's Specialty Healthcare",
+    "total": null
+  },
+  {
+    "user_registered": "2017-10-02 15:00:42",
+    "org_code": "1037",
+    "organization": "Cohen Children's Medical Center"
+  },
+  {
+    "user_registered": "2016-04-19 17:27:05",
+    "org_code": "1285",
+    "organization": "Carilion Clinic",
+    "total": null
+  },
+  {
+    "user_registered": "2022-02-03 13:46:17",
+    "org_code": "7503",
+    "organization": "Mayo Clinic Health System Wisconsin",
+    "total": null
+  },
+  {
+    "user_registered": "2022-11-17 13:26:15",
+    "org_code": "3746",
+    "organization": "UPMC Shadyside",
+    "total": null
+  },
+  {
+    "user_registered": "2017-01-26 18:42:54",
+    "org_code": "1171",
+    "organization": "Seattle Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2018-11-27 19:04:03",
+    "org_code": "6648",
+    "organization": "Community Hospital of the Monterey Peninsula",
+    "total": 41
+  },
+  {
+    "user_registered": "2019-07-16 14:47:05",
+    "org_code": "7291",
+    "organization": "Tallahassee Memorial Hospital"
+  },
+  {
+    "user_registered": "2016-04-21 22:40:25",
+    "org_code": "5171",
+    "organization": "Kaiser Permanente South Bay Medical",
+    "total": null
+  },
+  {
+    "user_registered": "2021-11-29 22:59:03",
+    "org_code": "7512",
+    "organization": "Victoria General Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2018-11-14 20:57:35",
+    "org_code": "6463",
+    "organization": "Swedish Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-05-09 16:26:34",
+    "org_code": "1358",
+    "organization": "Kaiser Permanente San Jose Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2018-04-02 18:29:44",
+    "org_code": "7212",
+    "organization": "SSM Health St. Mary's Hospital - Madison",
+    "total": 6
+  },
+  {
+    "user_registered": "2020-12-23 23:37:12",
+    "org_code": "7427",
+    "organization": "Coffs Harbour Base Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:23:26",
+    "org_code": "1326",
+    "organization": "Denver Health Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-12-02 03:23:47",
+    "org_code": "6106",
+    "organization": "UCSF at Parnassus Campus"
+  },
+  {
+    "user_registered": "2021-10-01 02:29:03",
+    "org_code": "7516",
+    "organization": "Hawke's Bay District Health Board",
+    "total": 10
+  },
+  {
+    "user_registered": "2021-06-07 12:47:53",
+    "org_code": "7442",
+    "organization": "Brampton Civic Hospital"
+  },
+  {
+    "user_registered": "2021-06-04 11:50:47",
+    "org_code": "7476",
+    "organization": "HealthPark Medical Center"
+  },
+  {
+    "user_registered": "2016-04-26 18:09:55",
+    "org_code": "1255",
+    "organization": "Mercy San Juan Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-08-31 22:19:17",
+    "org_code": "5895",
+    "organization": "Cedars-Sinai Medical Center",
+    "total": 17
+  },
+  {
+    "user_registered": "2022-04-06 15:21:16",
+    "org_code": "4440",
+    "organization": "Hartford HealthCare",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:11:45",
+    "org_code": "1284",
+    "organization": "Children's Hospital of the King's Daughters",
+    "total": null
+  },
+  {
+    "user_registered": "2022-01-13 14:32:08",
+    "org_code": "7370",
+    "organization": "SSM Health Cardinal Glennon Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-04-07 13:49:40",
+    "org_code": "7447",
+    "organization": "University Medical Center New Orleans",
+    "total": null
+  },
+  {
+    "user_registered": "2022-06-21 15:33:59",
+    "org_code": "7591",
+    "organization": "McGill University Health Centre - Department of Medicine",
+    "total": 4
+  },
+  {
+    "user_registered": "2021-07-27 16:19:55",
+    "org_code": "7443",
+    "organization": "Etobicoke General Hospital"
+  },
+  {
+    "user_registered": "2018-01-16 17:22:12",
+    "org_code": "4043",
+    "organization": "Kaiser Permanente Orange County - Irvine Medical Center"
+  },
+  {
+    "user_registered": "2018-03-14 22:23:14",
+    "org_code": "6571",
+    "organization": "Sequoia Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2017-01-17 19:52:08",
+    "org_code": "1262",
+    "organization": "New York University Langone Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-14 00:48:36",
+    "org_code": "1340",
+    "organization": "John Muir Health"
+  },
+  {
+    "user_registered": "2019-06-06 00:16:38",
+    "org_code": "7277",
+    "organization": "Kaiser Foundation Hospital - Manteca/Modesto",
+    "total": null
+  },
+  {
+    "user_registered": "2019-10-16 14:51:42",
+    "org_code": "1031",
+    "organization": "Boston Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-11-29 20:03:28",
+    "org_code": "1174",
+    "organization": "Southern New Hampshire Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2020-11-24 16:44:48",
+    "org_code": "3809",
+    "organization": "University Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-21 15:18:39",
+    "org_code": "1319",
+    "organization": "Virginia Mason Medical Center",
+    "total": 9
+  },
+  {
+    "user_registered": "2021-03-23 00:16:08",
+    "org_code": "7452",
+    "organization": "Hornsby Ku-Ring-Gai Health Service"
+  },
+  {
+    "user_registered": "2017-01-02 14:01:05",
+    "org_code": "6132",
+    "organization": "MCPHS University",
+    "total": null
+  },
+  {
+    "user_registered": "2021-11-29 22:57:55",
+    "org_code": "7538",
+    "organization": "Royal Hobart Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-28 18:08:38",
+    "org_code": "1242",
+    "organization": "Smilow Cancer Hospital at Yale-New Haven"
+  },
+  {
+    "user_registered": "2020-07-28 06:53:13",
+    "org_code": "7384",
+    "organization": "Children's Health Queensland Hospital and Health Service",
+    "total": null
+  },
+  {
+    "user_registered": "2017-06-15 19:24:42",
+    "org_code": "6215",
+    "organization": "NYC HHC North Central Bronx Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-05-13 15:26:18",
+    "org_code": "1428",
+    "organization": "Texas Health Cleburne",
+    "total": 3
+  },
+  {
+    "user_registered": "2016-05-17 14:58:56",
+    "org_code": "1245",
+    "organization": "UH Rainbow Babies & Children's Hospital",
+    "total": 8
+  },
+  {
+    "user_registered": "2019-05-22 22:15:11",
+    "org_code": "7281",
+    "organization": "Robert Wood Johnson University Hospital Rahway",
+    "total": 2
+  },
+  {
+    "user_registered": "2020-01-27 22:43:57",
+    "org_code": "3472",
+    "organization": "Huntsman Cancer Institute",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-12-26 20:22:21",
+    "org_code": "3838",
+    "organization": "NYC Health+Hospitals/Jacobi",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 18:32:08",
+    "org_code": "1134",
+    "organization": "Mount Sinai Hospital, New York"
+  },
+  {
+    "user_registered": "2021-02-18 15:26:37",
+    "org_code": "7439",
+    "organization": "Windsor Regional Hospital",
+    "total": 7
+  },
+  {
+    "user_registered": "2017-01-30 15:32:41",
+    "org_code": "4533",
+    "organization": "AMITA Health, Adventist Medical Center Hinsdale",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 20:12:26",
+    "org_code": "1113",
+    "organization": "Medical University of South Carolina",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-21 01:48:45",
+    "org_code": "4104",
+    "organization": "Inova Fairfax Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-11 16:00:09",
+    "org_code": "1190",
+    "organization": "St. Joseph's Hospital, Florida",
+    "total": 7
+  },
+  {
+    "user_registered": "2019-12-12 15:08:13",
+    "org_code": "7333",
+    "organization": "Northern Dutchess Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-11-16 17:05:37",
+    "org_code": "1205",
+    "organization": "Tufts Medical Center"
+  },
+  {
+    "user_registered": "2016-05-12 18:38:43",
+    "org_code": "1133",
+    "organization": "Mount Sinai Medical Center, Florida",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-20 12:27:34",
+    "org_code": "1246",
+    "organization": "University Hospital Seidman Cancer Center",
+    "total": null
+  },
+  {
+    "user_registered": "2022-01-11 18:53:45",
+    "org_code": "3753",
+    "organization": "Tampa General Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-12-16 21:28:30",
+    "org_code": "4559",
+    "organization": "Northern Navajo Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-12-15 14:31:36",
+    "org_code": "1079",
+    "organization": "Hennepin County Medical Center"
+  },
+  {
+    "user_registered": "2017-03-13 12:47:16",
+    "org_code": "1057",
+    "organization": "Brigham and Women's Faulkner Hospital"
+  },
+  {
+    "user_registered": "2021-12-29 15:34:39",
+    "org_code": "3764",
+    "organization": "Joe DiMaggio Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 18:49:05",
+    "org_code": "1328",
+    "organization": "Kaiser Permanente Baldwin Park Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-06-26 19:01:47",
+    "org_code": "7289",
+    "organization": "MidAtlantic Permanente Medical Group"
+  },
+  {
+    "user_registered": "2019-02-15 20:30:10",
+    "org_code": "6483",
+    "organization": "Kaiser Permanente Sunnyside Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-01-28 19:39:49",
+    "org_code": "1213",
+    "organization": "University of Colorado Hospital"
+  },
+  {
+    "user_registered": "2016-04-19 17:44:56",
+    "org_code": "3402",
+    "organization": "Kaiser Permanente Orange County - Irvine Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-06-05 23:10:54",
+    "org_code": "7284",
+    "organization": "Good Samaritan Regional Medical Center, Oregon",
+    "total": null
+  },
+  {
+    "user_registered": "2017-12-05 20:33:47",
+    "org_code": "7077",
+    "organization": "Northwell Health Peconic Bay Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-11-18 13:04:54",
+    "org_code": "7509",
+    "organization": "Saratoga Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:20:40",
+    "org_code": "4244",
+    "organization": "Valley Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2019-05-15 18:57:17",
+    "org_code": "1140",
+    "organization": "Newark Beth Israel Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2020-07-02 22:26:29",
+    "org_code": "1024",
+    "organization": "California Pacific Medical Center",
+    "total": 11
+  },
+  {
+    "user_registered": "2017-11-14 18:26:21",
+    "org_code": "5107",
+    "organization": "Community Regional Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-07-25 16:55:11",
+    "org_code": "7275",
+    "organization": "Phoenix Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-20 13:05:14",
+    "org_code": "1291",
+    "organization": "Concord Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-07-22 19:32:25",
+    "org_code": "5177",
+    "organization": "Cone Health Behavioral Health Hospital"
+  },
+  {
+    "user_registered": "2016-08-25 20:01:41",
+    "org_code": "4800",
+    "organization": "VA Greater Los Angeles Healthcare System - West Los Angeles Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2018-04-27 00:34:31",
+    "org_code": "7193",
+    "organization": "Franciscan Health Michigan City",
+    "total": null
+  },
+  {
+    "user_registered": "2021-09-28 13:32:53",
+    "org_code": "1203",
+    "organization": "Stroger Hospital of Cook County",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-21 21:15:25",
+    "org_code": "3894",
+    "organization": "Dell Children's Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-11-01 19:05:03",
+    "org_code": "4024",
+    "organization": "UCLA Medical Center, Santa Monica",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-22 19:20:10",
+    "org_code": "4414",
+    "organization": "Coventry Center Skilled Nursing & Rehabilitation"
+  },
+  {
+    "user_registered": "2016-07-07 21:47:16",
+    "org_code": "4010",
+    "organization": "Kaiser Permanente San Diego Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2020-02-04 15:28:37",
+    "org_code": "1021",
+    "organization": "Signature Healthcare Brockton Hospital"
+  },
+  {
+    "user_registered": "2016-04-21 19:27:54",
+    "org_code": "3736",
+    "organization": "Lenox Hill Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-21 00:13:39",
+    "org_code": "1103",
+    "organization": "Maimonides Medical Center",
+    "total": 6
+  },
+  {
+    "user_registered": "2016-04-29 17:09:55",
+    "org_code": "1164",
+    "organization": "Saint Barnabas Medical Center",
+    "total": 7
+  },
+  {
+    "user_registered": "2021-01-08 15:20:37",
+    "org_code": "6081",
+    "organization": "Mayo Clinic Saint Marys Hospital"
+  },
+  {
+    "user_registered": "2022-06-07 20:30:33",
+    "org_code": "7597",
+    "organization": "Massachusetts General Hospital Dementia Care Collaborative, Boston"
+  },
+  {
+    "user_registered": "2016-04-19 17:50:50",
+    "org_code": "5173",
+    "organization": "Harborview Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-12-02 13:30:32",
+    "org_code": "7093",
+    "organization": "Mayo Clinic Health Systems",
+    "total": null
+  },
+  {
+    "user_registered": "2021-09-28 22:42:23",
+    "org_code": "7454",
+    "organization": "Essentia Health - Fargo",
+    "total": null
+  },
+  {
+    "user_registered": "2021-11-24 15:10:32",
+    "org_code": "7498",
+    "organization": "Mercy Hospital South",
+    "total": null
+  },
+  {
+    "user_registered": "2016-09-26 20:47:57",
+    "org_code": "1017",
+    "organization": "Boston Medical Center"
+  },
+  {
+    "user_registered": "2019-08-27 20:07:31",
+    "org_code": "1078",
+    "organization": "Hebrew Rehabilitation Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-09-19 20:52:04",
+    "org_code": "5725",
+    "organization": "Manchester VA Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-01-27 17:18:38",
+    "org_code": "1281",
+    "organization": "Kaiser Permanente South Sacramento Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-11-28 18:01:46",
+    "org_code": "6902",
+    "organization": "Fairview North Region",
+    "total": null
+  },
+  {
+    "user_registered": "2017-09-19 19:13:15",
+    "org_code": "1025",
+    "organization": "CHA Cambridge Hospital"
+  },
+  {
+    "user_registered": "2021-02-01 19:21:43",
+    "org_code": "7433",
+    "organization": "Wake Forest Baptist Medical Center"
+  },
+  {
+    "user_registered": "2016-04-26 19:40:47",
+    "org_code": "1350",
+    "organization": "Loma Linda University Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 18:41:03",
+    "org_code": "5371",
+    "organization": "Sunnybrook Health Sciences Centre",
+    "total": 5
+  },
+  {
+    "user_registered": "2019-04-23 15:51:46",
+    "org_code": "7273",
+    "organization": "St. Paul's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2018-03-19 15:43:39",
+    "org_code": "7201",
+    "organization": "Oakville Trafalgar Memorial Hospital"
+  },
+  {
+    "user_registered": "2018-11-09 20:53:16",
+    "org_code": "1316",
+    "organization": "Summa Akron City Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-18 20:04:08",
+    "org_code": "1132",
+    "organization": "Mount Auburn Hospital",
+    "total": 16
+  },
+  {
+    "user_registered": "2016-05-10 13:31:25",
+    "org_code": "1118",
+    "organization": "Houston Methodist Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-02-23 13:46:32",
+    "org_code": "4986",
+    "organization": "EvergreenHealth",
+    "total": 1
+  },
+  {
+    "user_registered": "2019-07-09 15:24:38",
+    "org_code": "3966",
+    "organization": "St. John's Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-06-03 23:05:11",
+    "org_code": "5513",
+    "organization": "Renown Regional Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-24 16:08:06",
+    "org_code": "1110",
+    "organization": "John D. Stoeckle Center for Primary Care Innovation",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-20 18:45:58",
+    "org_code": "1301",
+    "organization": "Covenant Health System",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-02 17:41:16",
+    "org_code": "5320",
+    "organization": "Bryn Mawr Rehab Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:03:31",
+    "org_code": "1153",
+    "organization": "Park Nicollet Methodist Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2022-07-08 15:30:55",
+    "org_code": "7605",
+    "organization": "NYC Health + Hospitals/Harlem",
+    "total": 3
+  },
+  {
+    "user_registered": "2020-12-11 03:21:44",
+    "org_code": "7389",
+    "organization": "NSW Ministry of Health",
+    "total": 6
+  },
+  {
+    "user_registered": "2022-09-22 11:59:38",
+    "org_code": "7572",
+    "organization": "Central City Concern",
+    "total": null
+  },
+  {
+    "user_registered": "2016-10-14 18:24:47",
+    "org_code": "5067",
+    "organization": "Boulder Community Hospital"
+  },
+  {
+    "user_registered": "2019-03-28 18:57:09",
+    "org_code": "7253",
+    "organization": "Saint Francis Memorial Hospital"
+  },
+  {
+    "user_registered": "2016-04-19 17:15:20",
+    "org_code": "3285",
+    "organization": "St. Jude Children's Research Hospital, Tennessee",
+    "total": null
+  },
+  {
+    "user_registered": "2020-02-20 15:37:24",
+    "org_code": "3773",
+    "organization": "Albany Medical Center"
+  },
+  {
+    "user_registered": "2020-02-04 22:21:29",
+    "org_code": "7270",
+    "organization": "Ascension Seton Medical Center Austin",
+    "total": null
+  },
+  {
+    "user_registered": "2016-06-29 15:44:59",
+    "org_code": "1044",
+    "organization": "Dana-Farber Cancer Institute",
+    "total": null
+  },
+  {
+    "user_registered": "2022-05-23 18:18:14",
+    "org_code": "7568",
+    "organization": "Kaiser Permanente Los Angeles Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-03-13 14:43:10",
+    "org_code": "1086",
+    "organization": "Thomas Jefferson University Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2018-02-21 23:13:31",
+    "org_code": "5477",
+    "organization": "Adventist Health White Memorial",
+    "total": 9
+  },
+  {
+    "user_registered": "2018-06-12 23:53:14",
+    "org_code": "4002",
+    "organization": "Santa Rosa Memorial Hospital",
+    "total": 5
+  },
+  {
+    "user_registered": "2022-10-18 18:38:44",
+    "org_code": "7643",
+    "organization": "East Boston Neighborhood Health Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-01-13 17:56:14",
+    "org_code": "7420",
+    "organization": "Sutter Roseville Medical Center"
+  },
+  {
+    "user_registered": "2018-03-01 16:28:20",
+    "org_code": "6286",
+    "organization": "Parkview Regional Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:56:47",
+    "org_code": "3401",
+    "organization": "Children's National Medical Center",
+    "total": 8
+  },
+  {
+    "user_registered": "2019-01-25 13:57:38",
+    "org_code": "1161",
+    "organization": "Rhode Island Hospital",
+    "total": 2
+  },
+  {
+    "user_registered": "2017-03-09 02:06:11",
+    "org_code": "3901",
+    "organization": "Kent Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2019-05-06 15:45:50",
+    "org_code": "7271",
+    "organization": "Children's Specialized Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2020-11-15 22:17:41",
+    "org_code": "7411",
+    "organization": "Mater Hospital Brisbane and Griffith University",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 22:50:43",
+    "org_code": "3726",
+    "organization": "Kennedy University Hospital - Washington Township",
+    "total": null
+  },
+  {
+    "user_registered": "2017-05-01 17:38:23",
+    "org_code": "6298",
+    "organization": "University of Miami Sylvester Cancer Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2022-11-01 19:33:54",
+    "org_code": "3797",
+    "organization": "NYC Health + Hospitals/Coney Island",
+    "total": 1
+  },
+  {
+    "user_registered": "2020-10-15 22:54:55",
+    "org_code": "7553",
+    "organization": "New Jersey Collaborating Center for Nursing (NJCCN) ",
+    "total": null
+  },
+  {
+    "user_registered": "2017-10-05 19:18:58",
+    "org_code": "6489",
+    "organization": "North Shore University Hospital"
+  },
+  {
+    "user_registered": "2023-02-02 13:25:08",
+    "org_code": "7651",
+    "organization": "Marshall Medical Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2017-10-31 14:41:24",
+    "org_code": "1102",
+    "organization": "MacNeal Hospital"
+  },
+  {
+    "user_registered": "2022-04-06 14:41:28",
+    "org_code": "7565",
+    "organization": "Essentia Health - Moose Lake",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-22 01:27:54",
+    "org_code": "1097",
+    "organization": "Lehigh Valley Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2018-10-01 19:22:03",
+    "org_code": "6900",
+    "organization": "Minneapolis VA Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-03-22 21:03:09",
+    "org_code": "7451",
+    "organization": "Mental Health Service - Nepean Blue Mountains Local Health District",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-20 19:44:50",
+    "org_code": "1279",
+    "organization": "Elmhurst Hospital Center, New York"
+  },
+  {
+    "user_registered": "2018-06-06 18:38:32",
+    "org_code": "1327",
+    "organization": "Kaiser Permanente Antioch Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-11-23 20:10:40",
+    "org_code": "7532",
+    "organization": "SCL Health St. Mary's Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2019-04-25 16:44:20",
+    "org_code": "7285",
+    "organization": "Community Medical Center/RWJBarnabas Health",
+    "total": null
+  },
+  {
+    "user_registered": "2019-03-21 21:39:31",
+    "org_code": "3731",
+    "organization": "Winter Haven Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2021-02-09 19:55:09",
+    "org_code": "7430",
+    "organization": "Michael Garron Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-07-21 15:21:06",
+    "org_code": "3810",
+    "organization": "Cooley Dickinson Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2018-02-09 13:31:58",
+    "org_code": "1010",
+    "organization": "Bassett Healthcare",
+    "total": null
+  },
+  {
+    "user_registered": "2017-03-30 19:59:15",
+    "org_code": "4328",
+    "organization": "Queen of the Valley Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2018-05-21 18:13:08",
+    "org_code": "7223",
+    "organization": "Palo Alto Medical Foundation, Fremont Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-11-28 16:37:14",
+    "org_code": "1180",
+    "organization": "Saint Alphonsus Regional Medical Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2022-07-11 15:10:04",
+    "org_code": "7606",
+    "organization": "NYC Health + Hospitals/Lincoln",
+    "total": null
+  },
+  {
+    "user_registered": "2021-06-16 19:47:01",
+    "org_code": "1434",
+    "organization": "Texas Health Stephenville"
+  },
+  {
+    "user_registered": "2019-06-13 15:09:51",
+    "org_code": "5416",
+    "organization": "Temple University Hospital"
+  },
+  {
+    "user_registered": "2016-05-04 19:30:02",
+    "org_code": "1179",
+    "organization": "Spaulding Rehabilitation Hospital Cape Cod",
+    "total": null
+  },
+  {
+    "user_registered": "2019-08-13 22:24:21",
+    "org_code": "7309",
+    "organization": "University of Technology Sydney",
+    "total": null
+  },
+  {
+    "user_registered": "2017-02-23 15:07:41",
+    "org_code": "1077",
+    "organization": "HealthAlliance Hospital"
+  },
+  {
+    "user_registered": "2020-12-08 22:33:45",
+    "org_code": "7426",
+    "organization": "John Hunter Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-07-19 22:37:30",
+    "org_code": "4485",
+    "organization": "City of Hope",
+    "total": 5
+  },
+  {
+    "user_registered": "2021-03-15 14:06:27",
+    "org_code": "7450",
+    "organization": "Kindred at Home - Hospice Division",
+    "total": null
+  },
+  {
+    "user_registered": "2021-03-31 13:57:27",
+    "org_code": "7460",
+    "organization": "Bluegrass Care Navigators",
+    "total": null
+  },
+  {
+    "user_registered": "2022-04-13 20:16:38",
+    "org_code": "5882",
+    "organization": "Luminis Health Anne Arundel Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-01-13 13:43:23",
+    "org_code": "1081",
+    "organization": "Henry Ford Wyandotte Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2020-03-04 21:10:55",
+    "org_code": "1178",
+    "organization": "Spaulding Rehabilitation Hospital Boston",
+    "total": 2
+  },
+  {
+    "user_registered": "2021-09-01 13:30:11",
+    "org_code": "1240",
+    "organization": "Oishei Children's Hospital"
+  },
+  {
+    "user_registered": "2016-08-05 15:54:16",
+    "org_code": "4390",
+    "organization": "Jamaica Hospital Medical Center",
+    "total": 4
+  },
+  {
+    "user_registered": "2016-04-19 17:16:20",
+    "org_code": "1236",
+    "organization": "Westchester Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-11-27 18:30:11",
+    "org_code": "7310",
+    "organization": "Vassar Brothers Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-10-30 15:27:21",
+    "org_code": "1341",
+    "organization": "Advocate Illinois Masonic Medical Center"
+  },
+  {
+    "user_registered": "2022-03-03 17:17:21",
+    "org_code": "4263",
+    "organization": "Sturdy Memorial Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2017-06-29 20:38:17",
+    "org_code": "5612",
+    "organization": "Flushing Hospital Medical Center",
+    "total": 3
+  },
+  {
+    "user_registered": "2021-04-07 14:32:29",
+    "org_code": "7459",
+    "organization": "Sarah Bush Lincoln Health Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-06-14 21:35:01",
+    "org_code": "6208",
+    "organization": "Brenner Children's Hospital at Wake Forest Baptist Health"
+  },
+  {
+    "user_registered": "2018-08-15 17:24:55",
+    "org_code": "4018",
+    "organization": "North Memorial Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-03-31 12:12:57",
+    "org_code": "1432",
+    "organization": "Texas Health Plano",
+    "total": null
+  },
+  {
+    "user_registered": "2021-06-02 23:50:52",
+    "org_code": "7417",
+    "organization": "Kaiser Permanente Panorama City Medical Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2018-03-22 16:19:08",
+    "org_code": "7112",
+    "organization": "Kings County Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-11-29 12:31:05",
+    "org_code": "5909",
+    "organization": "Chris O'Brien Lifehouse",
+    "total": null
+  },
+  {
+    "user_registered": "2022-07-11 14:10:09",
+    "org_code": "7603",
+    "organization": "Chinook Regional Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-22 21:08:07",
+    "org_code": "1182",
+    "organization": "St. Cloud Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2023-03-20 17:13:18",
+    "org_code": "1137",
+    "organization": "New Hampshire Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2019-04-11 17:51:36",
+    "org_code": "3869",
+    "organization": "NYC Health & Hospitals/Queens Hospital Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-08-09 00:41:42",
+    "org_code": "7481",
+    "organization": "Waitemata District Health Board",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-18 21:37:38",
+    "org_code": "1315",
+    "organization": "Providence Milwaukie Hospital",
+    "total": 4
+  },
+  {
+    "user_registered": "2020-03-24 18:04:15",
+    "org_code": "1048",
+    "organization": "Novant Health Derrick L. Davis Cancer Center",
+    "total": null
+  },
+  {
+    "user_registered": "2022-05-11 19:24:14",
+    "org_code": "7584",
+    "organization": "Kaiser Permanente San Bernardino County",
+    "total": 7
+  },
+  {
+    "user_registered": "2019-03-15 13:17:59",
+    "org_code": "7267",
+    "organization": "Robert Wood Johnson University Hospital Hamilton",
+    "total": null
+  },
+  {
+    "user_registered": "2018-09-17 11:29:55",
+    "org_code": "7238",
+    "organization": "Chilton Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-01-19 20:03:06",
+    "org_code": "3935",
+    "organization": "Edward Hines Jr. VA Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-20 19:26:30",
+    "org_code": "1310",
+    "organization": "Kaiser Permanente Santa Rosa Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-12-13 22:22:13",
+    "org_code": "3307",
+    "organization": "Banner University Medical Center - Phoenix",
+    "total": 6
+  },
+  {
+    "user_registered": "2016-04-29 12:14:44",
+    "org_code": "5650",
+    "organization": "Robert Wood Johnson University Hospital Somerset",
+    "total": null
+  },
+  {
+    "user_registered": "2019-05-30 16:07:23",
+    "org_code": "1101",
+    "organization": "Advocate Lutheran General Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-02-26 18:19:09",
+    "org_code": "6343",
+    "organization": "Kaiser Permanente Riverside Service Area",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:49:33",
+    "org_code": "1271",
+    "organization": "Kentucky Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-12-02 17:00:56",
+    "org_code": "7542",
+    "organization": "Hassenfeld Children's Hospital at NYU Langone",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-20 19:07:56",
+    "org_code": "4847",
+    "organization": "Stony Brook Children's Hospital",
+    "total": 8
+  },
+  {
+    "user_registered": "2016-08-30 22:38:13",
+    "org_code": "1247",
+    "organization": "Providence St. Patrick Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-08-21 14:57:04",
+    "org_code": "4419",
+    "organization": "Genesis HealthCare",
+    "total": null
+  },
+  {
+    "user_registered": "2021-09-23 13:39:22",
+    "org_code": "7474",
+    "organization": "Einstein Medical Center Montgomery"
+  },
+  {
+    "user_registered": "2016-04-19 21:53:26",
+    "org_code": "1270",
+    "organization": "Phelps Memorial Hospital Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-07-27 13:21:09",
+    "org_code": "6455",
+    "organization": "Hudson River Healthcare"
+  },
+  {
+    "user_registered": "2016-04-21 22:18:54",
+    "org_code": "1250",
+    "organization": "UC Irvine Health",
+    "total": null
+  },
+  {
+    "user_registered": "2016-06-07 15:02:33",
+    "org_code": "5759",
+    "organization": "Donor Alliance",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-22 19:49:40",
+    "org_code": "1305",
+    "organization": "University of Illinois Hospital and Health System",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 18:15:00",
+    "org_code": "1042",
+    "organization": "Cooper University Hospital"
+  },
+  {
+    "user_registered": "2020-10-27 20:11:25",
+    "org_code": "7405",
+    "organization": "Adventist Health Castle",
+    "total": 2
+  },
+  {
+    "user_registered": "2016-05-12 20:40:02",
+    "org_code": "1306",
+    "organization": "Regions Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2022-04-14 18:38:00",
+    "org_code": "7581",
+    "organization": "Kaiser Permanente Antelope Valley Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2022-05-10 20:18:04",
+    "org_code": "7576",
+    "organization": "Kaweah Health Medical Center"
+  },
+  {
+    "user_registered": "2017-03-20 20:09:21",
+    "org_code": "6213",
+    "organization": "University of Missouri Health Care",
+    "total": null
+  },
+  {
+    "user_registered": "2022-09-23 15:41:14",
+    "org_code": "5709",
+    "organization": "Logan Health Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-08-30 17:46:17",
+    "org_code": "7489",
+    "organization": "MedStar Georgetown University Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-04-22 14:30:35",
+    "org_code": "1429",
+    "organization": "Texas Health Fort Worth",
+    "total": null
+  },
+  {
+    "user_registered": "2017-06-30 22:53:26",
+    "org_code": "6449",
+    "organization": "Wyckoff Heights Medical Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2020-03-23 18:23:54",
+    "org_code": "1154",
+    "organization": "Penn State Hershey Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-20 21:19:49",
+    "org_code": "4456",
+    "organization": "Orange Regional Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-07-25 19:40:44",
+    "org_code": "7290",
+    "organization": "Robert Wood Johnson University Hospital New Brunswick"
+  },
+  {
+    "user_registered": "2023-02-10 22:16:48",
+    "org_code": "7659",
+    "organization": "St. Paul's Hospital (Providence Health Care)",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-25 18:31:36",
+    "org_code": "1109",
+    "organization": "Massachusetts General Hospital Cancer Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:13:03",
+    "org_code": "1354",
+    "organization": "LAC+USC Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2019-08-23 15:55:50",
+    "org_code": "7303",
+    "organization": "Veterans Affairs Connecticut Healthcare System, West Haven Campus",
+    "total": null
+  },
+  {
+    "user_registered": "2022-01-26 20:51:12",
+    "org_code": "7508",
+    "organization": "Memorial Regional Hospital",
+    "total": 3
+  },
+  {
+    "user_registered": "2019-04-08 17:30:31",
+    "org_code": "1026",
+    "organization": "Carolinas Medical Center Mercy"
+  },
+  {
+    "user_registered": "2019-12-06 19:54:41",
+    "org_code": "1112",
+    "organization": "McLean Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2022-09-12 12:32:20",
+    "org_code": "7609",
+    "organization": "Ventura County Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-07-15 12:08:14",
+    "org_code": "7484",
+    "organization": "Swedish Cancer Institute",
+    "total": null
+  },
+  {
+    "user_registered": "2020-01-16 19:25:56",
+    "org_code": "7331",
+    "organization": "UnityPoint Health Des Moines",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-06 09:47:10",
+    "org_code": "1015",
+    "organization": "Beverly Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2020-06-23 02:46:14",
+    "org_code": "7373",
+    "organization": "Royal North Shore Hospital"
+  },
+  {
+    "user_registered": "2023-03-20 19:28:14",
+    "org_code": "1046",
+    "organization": "Mercy Hospital Jefferson"
+  },
+  {
+    "user_registered": "2021-09-30 12:12:12",
+    "org_code": "5955",
+    "organization": "Keck Medicine of USC",
+    "total": 1
+  },
+  {
+    "user_registered": "2020-04-07 19:01:39",
+    "org_code": "1220",
+    "organization": "University of Rochester Medical Center"
+  },
+  {
+    "user_registered": "2022-05-12 13:10:05",
+    "org_code": "7582",
+    "organization": "Cowichan District Hospital (CDH)",
+    "total": 1
+  },
+  {
+    "user_registered": "2019-08-30 01:43:31",
+    "org_code": "6660",
+    "organization": "Marian Regional Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 22:33:12",
+    "org_code": "1296",
+    "organization": "Primary Children's Hospital",
+    "total": 4
+  },
+  {
+    "user_registered": "2021-07-23 18:46:48",
+    "org_code": "7440",
+    "organization": "The Medical Center of Aurora"
+  },
+  {
+    "user_registered": "2016-04-19 20:02:37",
+    "org_code": "1289",
+    "organization": "Sanford Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-22 18:24:50",
+    "org_code": "3303",
+    "organization": "AtlantiCare Regional Medical Center"
+  },
+  {
+    "user_registered": "2020-08-11 11:56:50",
+    "org_code": "7385",
+    "organization": "The Brooklyn Hospital Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2021-10-13 18:50:35",
+    "org_code": "5941",
+    "organization": "Health First",
+    "total": 3
+  },
+  {
+    "user_registered": "2016-04-23 22:42:45",
+    "org_code": "1221",
+    "organization": "University of Virginia Health System",
+    "total": null
+  },
+  {
+    "user_registered": "2022-07-08 17:04:32",
+    "org_code": "7607",
+    "organization": "NYC Health + Hospitals/Metropolitan"
+  },
+  {
+    "user_registered": "2016-06-27 20:55:00",
+    "org_code": "5568",
+    "organization": "John Muir Medical Center, Walnut Creek",
+    "total": null
+  },
+  {
+    "user_registered": "2022-05-04 17:51:05",
+    "org_code": "5043",
+    "organization": "El Camino Hospital Mountain View Campus",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-20 16:09:30",
+    "org_code": "1083",
+    "organization": "Hospital of Central Connecticut",
+    "total": null
+  },
+  {
+    "user_registered": "2017-04-20 21:08:29",
+    "org_code": "4727",
+    "organization": "Kaiser Permanente Westside Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-11-23 14:40:23",
+    "org_code": "1131",
+    "organization": "Morristown Medical Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2016-04-21 15:14:31",
+    "org_code": "1004",
+    "organization": "Lasting Hope Recovery Center"
+  },
+  {
+    "user_registered": "2021-01-07 23:56:49",
+    "org_code": "3742",
+    "organization": "Norwalk Hospital",
+    "total": 5
+  },
+  {
+    "user_registered": "2017-09-03 13:35:10",
+    "org_code": "6390",
+    "organization": "Courtyard Nursing Care Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2021-06-23 18:30:45",
+    "org_code": "7477",
+    "organization": "Sacred Heart Medical Center at RiverBend"
+  },
+  {
+    "user_registered": "2016-04-21 12:51:56",
+    "org_code": "1201",
+    "organization": "Stamford Hospital",
+    "total": 3
+  },
+  {
+    "user_registered": "2016-04-20 14:03:08",
+    "org_code": "1034",
+    "organization": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+    "total": null
+  },
+  {
+    "user_registered": "2017-02-22 19:00:43",
+    "org_code": "3872",
+    "organization": "Aria Health",
+    "total": null
+  },
+  {
+    "user_registered": "2019-10-23 12:46:32",
+    "org_code": "7314",
+    "organization": "Henry Ford Allegiance Health",
+    "total": null
+  },
+  {
+    "user_registered": "2022-07-12 13:09:58",
+    "org_code": "3903",
+    "organization": "University of Maryland Baltimore Washington Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:41:20",
+    "org_code": "1278",
+    "organization": "Bedford VA Medical Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2022-05-17 07:11:45",
+    "org_code": "7585",
+    "organization": "Kaiser Permanente Moanalua Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-01-09 14:07:35",
+    "org_code": "1125",
+    "organization": "MidState Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2022-04-20 19:28:48",
+    "org_code": "7587",
+    "organization": "Texas Health Frisco"
+  },
+  {
+    "user_registered": "2022-04-11 20:01:07",
+    "org_code": "3837",
+    "organization": "SCL Health",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-25 15:57:13",
+    "org_code": "1261",
+    "organization": "Montefiore New Rochelle Hospital",
+    "total": 2
+  },
+  {
+    "user_registered": "2017-07-21 13:18:05",
+    "org_code": "6103",
+    "organization": "Newport Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-06-10 19:46:19",
+    "org_code": "3915",
+    "organization": "Princeton Medical Center"
+  },
+  {
+    "user_registered": "2019-08-20 12:01:25",
+    "org_code": "4461",
+    "organization": "Catskill Regional Medical Center"
+  },
+  {
+    "user_registered": "2018-07-17 14:44:07",
+    "org_code": "1335",
+    "organization": "Upstate Medical University",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-10-12 16:08:37",
+    "org_code": "1330",
+    "organization": "Melrose-Wakefield Hospital",
+    "total": 2
+  },
+  {
+    "user_registered": "2019-11-27 01:22:46",
+    "org_code": "5187",
+    "organization": "Kootenai Health",
+    "total": 5
+  },
+  {
+    "user_registered": "2020-10-27 20:09:25",
+    "org_code": "7397",
+    "organization": "Samaritan Albany General Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2018-12-03 17:10:59",
+    "org_code": "6622",
+    "organization": "Johns Hopkins All Children's Hospital, Inc.",
+    "total": null
+  },
+  {
+    "user_registered": "2022-03-03 17:52:55",
+    "org_code": "7558",
+    "organization": "Community Hospital",
+    "total": 3
+  },
+  {
+    "user_registered": "2018-06-15 16:10:09",
+    "org_code": "7171",
+    "organization": "Dell Seton Medical Center at The University of Texas at Austin",
+    "total": 1
+  },
+  {
+    "user_registered": "2018-03-28 15:00:32",
+    "org_code": "3929",
+    "organization": "Long Island Jewish Forest Hills"
+  },
+  {
+    "user_registered": "2020-09-22 19:25:46",
+    "org_code": "1263",
+    "organization": "Griffin Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-19 18:13:39",
+    "org_code": "1293",
+    "organization": "St. Mary's Health System",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-19 17:02:18",
+    "org_code": "1160",
+    "organization": "Rehabilitation Institute of Chicago"
+  },
+  {
+    "user_registered": "2023-04-27 12:28:45",
+    "org_code": "7618",
+    "organization": "Vancouver Coastal Health",
+    "total": 1
+  },
+  {
+    "user_registered": "2020-04-06 18:50:46",
+    "org_code": "1094",
+    "organization": "Lahey Clinic"
+  },
+  {
+    "user_registered": "2021-11-01 20:26:01",
+    "org_code": "7495",
+    "organization": "Sisters of Mercy Health Systems"
+  },
+  {
+    "user_registered": "2016-08-31 01:00:42",
+    "org_code": "1239",
+    "organization": "Winchester Hospital",
+    "total": 3
+  },
+  {
+    "user_registered": "2016-04-25 14:26:27",
+    "org_code": "1219",
+    "organization": "University of North Carolina at Chapel Hill",
+    "total": null
+  },
+  {
+    "user_registered": "2021-10-29 18:30:35",
+    "org_code": "7485",
+    "organization": "Home Health Foundation Inc.",
+    "total": 2
+  },
+  {
+    "user_registered": "2016-04-25 17:11:34",
+    "org_code": "1128",
+    "organization": "The Miriam Hospital"
+  },
+  {
+    "user_registered": "2016-04-20 12:42:54",
+    "org_code": "1012",
+    "organization": "Baystate Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2022-12-22 13:33:54",
+    "org_code": "2002",
+    "organization": "Unity Behavioral Health",
+    "total": null
+  },
+  {
+    "user_registered": "2022-10-17 18:08:31",
+    "org_code": "7644",
+    "organization": "Northwell Health Hospice Care Network",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-22 00:32:25",
+    "org_code": "1162",
+    "organization": "Rush University Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2018-07-23 17:47:15",
+    "org_code": "3730",
+    "organization": "Laguna Honda Hospital and Rehabilitation Center",
+    "total": null
+  },
+  {
+    "user_registered": "2022-09-12 12:32:20",
+    "org_code": "7627",
+    "organization": "SSM Health St. Louis University Hospital"
+  },
+  {
+    "user_registered": "2021-10-06 13:42:24",
+    "org_code": "7482",
+    "organization": "Penn State Health St. Joseph"
+  },
+  {
+    "user_registered": "2016-04-26 14:55:14",
+    "org_code": "3783",
+    "organization": "UC Davis Medical Center",
+    "total": 5
+  },
+  {
+    "user_registered": "2016-04-26 18:22:01",
+    "org_code": "1347",
+    "organization": "Tufts Health Plan"
+  },
+  {
+    "user_registered": "2016-04-19 17:14:16",
+    "org_code": "1266",
+    "organization": "Erie County Medical Center",
+    "total": 3
+  },
+  {
+    "user_registered": "2016-04-19 17:58:49",
+    "org_code": "4619",
+    "organization": "Maple Grove Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2019-12-07 10:09:55",
+    "org_code": "7327",
+    "organization": "Mount Sinai St. Luke's",
+    "total": 1
+  },
+  {
+    "user_registered": "2018-03-29 15:43:02",
+    "org_code": "7215",
+    "organization": "South Oaks Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2023-03-01 19:13:05",
+    "org_code": "5064",
+    "organization": "JFK University Medical Center"
+  },
+  {
+    "user_registered": "2021-08-20 17:05:36",
+    "org_code": "1155",
+    "organization": "Pennsylvania Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2022-04-19 13:44:09",
+    "org_code": "3857",
+    "organization": "Mayo Clinic Arizona",
+    "total": 7
+  },
+  {
+    "user_registered": "2020-01-31 21:53:58",
+    "org_code": "99999",
+    "organization": "LaunchPad Media",
+    "total": null
+  },
+  {
+    "user_registered": "2016-07-26 17:59:16",
+    "org_code": "1272",
+    "organization": "San Francisco General Hospital"
+  },
+  {
+    "user_registered": "2017-01-06 22:01:40",
+    "org_code": "4531",
+    "organization": "Nationwide Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2022-05-02 16:00:33",
+    "org_code": "5402",
+    "organization": "Inspira Health",
+    "total": null
+  },
+  {
+    "user_registered": "2016-08-25 21:00:41",
+    "org_code": "1019",
+    "organization": "Bridgeport Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2023-01-05 13:04:30",
+    "org_code": "7647",
+    "organization": "Washington State Hospital Association",
+    "total": 3
+  },
+  {
+    "user_registered": "2020-05-27 20:37:32",
+    "org_code": "1070",
+    "organization": "Harvard Vanguard Medical Associates Braintree",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-11-18 16:25:03",
+    "org_code": "1252",
+    "organization": "Riddle Hospital",
+    "total": 3
+  },
+  {
+    "user_registered": "2016-04-21 20:33:07",
+    "org_code": "1233",
+    "organization": "Virtua Voorhees Hospital"
+  },
+  {
+    "user_registered": "2017-01-05 21:01:48",
+    "org_code": "1152",
+    "organization": "Overlook Medical Center",
+    "total": 3
+  },
+  {
+    "user_registered": "2022-04-22 19:49:33",
+    "org_code": "4512",
+    "organization": "St. Joseph Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-09-20 20:21:55",
+    "org_code": "1141",
+    "organization": "Newton-Wellesley Hospital"
+  },
+  {
+    "user_registered": "2016-04-25 14:11:35",
+    "org_code": "1265",
+    "organization": "Children's Hospital of Pittsburgh of UPMC"
+  },
+  {
+    "user_registered": "2016-09-20 19:22:04",
+    "org_code": "5489",
+    "organization": "Capital Health Regional Medical Center/Hopewell"
+  },
+  {
+    "user_registered": "2018-11-16 14:31:46",
+    "org_code": "7247",
+    "organization": "UAMS Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-08-19 13:15:22",
+    "org_code": "7437",
+    "organization": "The Ottawa Hospital - Civic Campus",
+    "total": 5
+  },
+  {
+    "user_registered": "2018-01-03 14:42:55",
+    "org_code": "1061",
+    "organization": "Froedtert & the Medical College of Wisconsin"
+  },
+  {
+    "user_registered": "2017-04-03 18:41:37",
+    "org_code": "1185",
+    "organization": "Saint Francis Hospital & Medical Center",
+    "total": 4
+  },
+  {
+    "user_registered": "2016-05-20 13:33:26",
+    "org_code": "5154",
+    "organization": "South County Hospital"
+  },
+  {
+    "user_registered": "2020-10-06 20:22:11",
+    "org_code": "7217",
+    "organization": "Zucker Hillside Hospital"
+  },
+  {
+    "user_registered": "2019-11-26 03:57:33",
+    "org_code": "7322",
+    "organization": "South Health Campus / University of Calgary",
+    "total": 5
+  },
+  {
+    "user_registered": "2022-05-05 14:02:29",
+    "org_code": "7555",
+    "organization": "The Royal Children's Hospital",
+    "total": 3
+  },
+  {
+    "user_registered": "2019-10-23 14:44:38",
+    "org_code": "1040",
+    "organization": "Connecticut Children's Medical Center"
+  },
+  {
+    "user_registered": "2021-05-18 12:53:46",
+    "org_code": "7195",
+    "organization": "Long Island Jewish Valley Stream",
+    "total": 2
+  },
+  {
+    "user_registered": "2022-06-01 15:58:19",
+    "org_code": "7579",
+    "organization": "Unity Health Toronto",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-09-14 21:08:20",
+    "org_code": "1303",
+    "organization": "Stanford Hospital and Clinics",
+    "total": 5
+  },
+  {
+    "user_registered": "2018-11-19 21:54:18",
+    "org_code": "7250",
+    "organization": "Interfaith Medical Center"
+  },
+  {
+    "user_registered": "2022-05-05 11:14:34",
+    "org_code": "6244",
+    "organization": "William Osler Health System",
+    "total": null
+  },
+  {
+    "user_registered": "2021-06-24 17:25:48",
+    "org_code": "1425",
+    "organization": "Texas Health Alliance",
+    "total": null
+  },
+  {
+    "user_registered": "2018-02-22 00:32:42",
+    "org_code": "1093",
+    "organization": "Kaiser Permanente Sacramento Medical Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2017-05-18 14:47:09",
+    "org_code": "1352",
+    "organization": "Kaiser Permanente Santa Clara Medical Center"
+  },
+  {
+    "user_registered": "2016-04-25 19:10:21",
+    "org_code": "1033",
+    "organization": "Children's Hospital of Wisconsin",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-26 14:34:08",
+    "org_code": "1173",
+    "organization": "South Shore Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2017-01-23 15:28:26",
+    "org_code": "1198",
+    "organization": "St. Peter's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-11 21:27:28",
+    "org_code": "1158",
+    "organization": "Providence Portland Medical Center"
+  },
+  {
+    "user_registered": "2021-05-27 19:55:04",
+    "org_code": "1322",
+    "organization": "Kaiser Permanente Oakland Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2022-05-23 20:22:44",
+    "org_code": "7588",
+    "organization": "Kaiser Permanente Woodland Hills Medical Center",
+    "total": 9
+  },
+  {
+    "user_registered": "2020-04-28 23:52:22",
+    "org_code": "7312",
+    "organization": "Eastern State Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2016-08-25 15:51:56",
+    "org_code": "5887",
+    "organization": "Chelsea Jewish Foundation"
+  },
+  {
+    "user_registered": "2017-09-27 11:25:16",
+    "org_code": "1095",
+    "organization": "Lakes Region General Hospital"
+  },
+  {
+    "user_registered": "2022-02-17 13:19:26",
+    "org_code": "7546",
+    "organization": "UTMB Galveston Campus",
+    "total": null
+  },
+  {
+    "user_registered": "2022-04-18 19:38:50",
+    "org_code": "7569",
+    "organization": "SCL Health St. James Healthcare",
+    "total": 2
+  },
+  {
+    "user_registered": "2016-04-20 16:25:35",
+    "org_code": "4706",
+    "organization": "Memorial Hospital",
+    "total": 3
+  },
+  {
+    "user_registered": "2017-10-24 00:10:08",
+    "org_code": "1217",
+    "organization": "University of Mississippi Medical Center"
+  },
+  {
+    "user_registered": "2016-09-07 17:20:50",
+    "org_code": "3827",
+    "organization": "Northern Westchester Hospital"
+  },
+  {
+    "user_registered": "2019-01-11 22:52:55",
+    "org_code": "7233",
+    "organization": "Ronald Reagan UCLA Medical Center"
+  },
+  {
+    "user_registered": "2022-02-07 21:12:23",
+    "org_code": "7540",
+    "organization": "Beaufort Memorial Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2022-10-27 13:19:06",
+    "org_code": "7642",
+    "organization": "Benefis East Campus"
+  },
+  {
+    "user_registered": "2023-02-28 17:05:09",
+    "org_code": "1148",
+    "organization": "Ocean University Medical Center"
+  },
+  {
+    "user_registered": "2020-08-26 10:25:23",
+    "org_code": "1427",
+    "organization": "Texas Health Azle",
+    "total": 1
+  },
+  {
+    "user_registered": "2022-05-12 15:50:43",
+    "org_code": "7580",
+    "organization": "El Camino Health",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-02-08 16:09:39",
+    "org_code": "1258",
+    "organization": "Monmouth Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2021-12-08 21:25:00",
+    "org_code": "7419",
+    "organization": "Texas Diabetes Institute - University Health",
+    "total": 3
+  },
+  {
+    "user_registered": "2021-01-28 13:30:12",
+    "org_code": "7431",
+    "organization": "Dorothy Ley Hospice",
+    "total": null
+  },
+  {
+    "user_registered": "2022-05-25 17:54:30",
+    "org_code": "1187",
+    "organization": "St. Joseph Hospital of Nashua, NH",
+    "total": 4
+  },
+  {
+    "user_registered": "2016-04-21 17:00:44",
+    "org_code": "1064",
+    "organization": "Greenwich Hospital"
+  },
+  {
+    "user_registered": "2021-04-19 17:11:51",
+    "org_code": "7444",
+    "organization": "Peel Memorial Centre",
+    "total": 2
+  },
+  {
+    "user_registered": "2021-05-04 16:01:29",
+    "org_code": "1126",
+    "organization": "Milford Regional Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-01-17 20:00:46",
+    "org_code": "4933",
+    "organization": "Buffalo Hospital"
+  },
+  {
+    "user_registered": "2016-04-19 17:41:01",
+    "org_code": "1151",
+    "organization": "OSF Saint Francis Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2020-09-01 23:21:15",
+    "org_code": "1092",
+    "organization": "Kaiser Foundation Hospital Roseville",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-19 19:22:26",
+    "org_code": "1124",
+    "organization": "MidMichigan Medical Center",
+    "total": 3
+  },
+  {
+    "user_registered": "2021-09-27 18:39:56",
+    "org_code": "7453",
+    "organization": "Essentia Health",
+    "total": null
+  },
+  {
+    "user_registered": "2019-01-05 20:02:31",
+    "org_code": "1192",
+    "organization": "St. Joseph's Hospital of Atlanta",
+    "total": 5
+  },
+  {
+    "user_registered": "2016-12-05 20:15:55",
+    "org_code": "1096",
+    "organization": "Le Bonheur Children's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-08-11 15:15:32",
+    "org_code": "7487",
+    "organization": "John Clarke Senior Living"
+  },
+  {
+    "user_registered": "2018-04-25 15:11:46",
+    "org_code": "7216",
+    "organization": "Avera Sacred Heart Hospital"
+  },
+  {
+    "user_registered": "2016-09-22 16:20:49",
+    "org_code": "5498",
+    "organization": "St. Mark's Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2022-10-27 14:32:52",
+    "org_code": "1302",
+    "organization": "St. Vincent's Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2022-04-28 14:50:35",
+    "org_code": "7561",
+    "organization": "Inova Fair Oaks Hospital",
+    "total": 3
+  },
+  {
+    "user_registered": "2016-09-19 18:44:45",
+    "org_code": "4500",
+    "organization": "Kaiser Permanente Redwood City Medical Center",
+    "total": 3
+  },
+  {
+    "user_registered": "2022-10-08 02:35:05",
+    "org_code": "1256",
+    "organization": "Wesley Long Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-09-22 13:02:35",
+    "org_code": "5652",
+    "organization": "Children's Medical Center Plano",
+    "total": null
+  },
+  {
+    "user_registered": "2016-12-30 20:37:06",
+    "org_code": "5306",
+    "organization": "Petaluma Valley Hospital"
+  },
+  {
+    "user_registered": "2020-05-20 14:42:33",
+    "org_code": "1022",
+    "organization": "Bryn Mawr Hospital",
+    "total": 4
+  },
+  {
+    "user_registered": "2023-02-10 16:16:23",
+    "org_code": "7657",
+    "organization": "Beebe Healthcare Margaret H. Rollins Lewes Campus",
+    "total": 8
+  },
+  {
+    "user_registered": "2021-12-20 16:27:15",
+    "org_code": "7345",
+    "organization": "Adventist HealthCare White Oak Medical Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2021-08-04 14:08:27",
+    "org_code": "7488",
+    "organization": "Stony Brook University Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2022-01-20 16:16:22",
+    "org_code": "7368",
+    "organization": "Primary Care Progress"
+  },
+  {
+    "user_registered": "2021-10-14 16:01:45",
+    "org_code": "5939",
+    "organization": "Holmes Regional Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2020-06-11 11:41:06",
+    "org_code": "7342",
+    "organization": "Acclaim Health",
+    "total": 2
+  },
+  {
+    "user_registered": "2021-08-26 13:42:08",
+    "org_code": "7492",
+    "organization": "Massachusetts Society of Clinical Oncology",
+    "total": 1
+  },
+  {
+    "user_registered": "2022-01-12 20:31:29",
+    "org_code": "7504",
+    "organization": "Martin Luther King Community Hospital"
+  },
+  {
+    "user_registered": "2020-05-27 19:37:15",
+    "org_code": "3891",
+    "organization": "PeaceHealth St. Joseph Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2022-05-10 20:18:12",
+    "org_code": "5316",
+    "organization": "SCL Health St. Vincent Healthcare",
+    "total": null
+  },
+  {
+    "user_registered": "2021-10-18 15:10:40",
+    "org_code": "7530",
+    "organization": "Palm Bay Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-06-05 13:52:17",
+    "org_code": "6432",
+    "organization": "Adventist Health Care Shady Grove Medical Center",
+    "total": 6
+  },
+  {
+    "user_registered": "2016-04-19 21:26:36",
+    "org_code": "1211",
+    "organization": "University of Alabama UAB Hospital",
+    "total": 5
+  },
+  {
+    "user_registered": "2018-10-22 14:51:46",
+    "org_code": "7248",
+    "organization": "Southwest General Health Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-05-16 15:51:22",
+    "org_code": "4669",
+    "organization": "Kaiser Permanente San Rafael Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2015-04-07 18:15:38",
+    "org_code": "LPM",
+    "organization": "LaunchPad Media",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-02-06 17:10:22",
+    "org_code": "3781",
+    "organization": "Cancer Treatment Centers of America at Southeastern Regional Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-01-23 17:41:46",
+    "org_code": "1121",
+    "organization": "Mass General Charlestown HealthCare Center",
+    "total": null
+  },
+  {
+    "user_registered": "2016-11-13 21:09:57",
+    "org_code": "1248",
+    "organization": "Paoli Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-20 14:43:52",
+    "org_code": "1053",
+    "organization": "Emerson Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-19 21:53:57",
+    "org_code": "1122",
+    "organization": "Mass General/North Shore Cancer Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2022-05-11 18:49:51",
+    "org_code": "7592",
+    "organization": "Mercy Hospital Lebanon",
+    "total": null
+  },
+  {
+    "user_registered": "2017-12-20 19:17:00",
+    "org_code": "4367",
+    "organization": "Main Line Health",
+    "total": 1
+  },
+  {
+    "user_registered": "2020-10-27 20:08:16",
+    "org_code": "7402",
+    "organization": "Mather Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2020-03-25 16:24:19",
+    "org_code": "4272",
+    "organization": "OhioHealth Grant Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2021-09-01 16:11:47",
+    "org_code": "1430",
+    "organization": "Texas Health HEB",
+    "total": 2
+  },
+  {
+    "user_registered": "2022-09-13 01:13:34",
+    "org_code": "7562",
+    "organization": "Charlotte Hungerford Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-26 12:07:56",
+    "org_code": "1225",
+    "organization": "VA New York Harbor Healthcare System",
+    "total": null
+  },
+  {
+    "user_registered": "2016-09-07 21:01:52",
+    "org_code": "3297",
+    "organization": "Harbor-UCLA Medical Center"
+  },
+  {
+    "user_registered": "2018-08-23 15:13:38",
+    "org_code": "1290",
+    "organization": "Mease Countryside Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-11-14 23:23:59",
+    "org_code": "1286",
+    "organization": "Providence St. Vincent Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2021-04-20 18:36:33",
+    "org_code": "1433",
+    "organization": "Texas Health Southwest Fort Worth",
+    "total": null
+  },
+  {
+    "user_registered": "2016-04-19 17:59:16",
+    "org_code": "1257",
+    "organization": "Yale-New Haven Hospital - Saint Raphael Campus",
+    "total": 1
+  },
+  {
+    "user_registered": "2023-03-23 12:18:11",
+    "org_code": "7653",
+    "organization": "Washington Permanente Medical Group",
+    "total": null
+  },
+  {
+    "user_registered": "2018-05-24 19:09:33",
+    "org_code": "1324",
+    "organization": "OSU Wexner Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2023-04-24 17:56:18",
+    "org_code": "7670",
+    "organization": "Nanaimo Regional General Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2021-01-04 18:42:00",
+    "org_code": "1009",
+    "organization": "Barnes-Jewish Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-03-20 16:14:54",
+    "org_code": "1166",
+    "organization": "Saint Mary Medical Center PA",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-01-18 17:00:49",
+    "org_code": "1362",
+    "organization": "CHI Health Mercy Council Bluffs",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-01-17 15:22:52",
+    "org_code": "1359",
+    "organization": "CHI Health Immanuel",
+    "total": 1
+  },
+  {
+    "user_registered": "2021-04-21 20:54:45",
+    "org_code": "1424",
+    "organization": "Texas Health Allen",
+    "total": null
+  },
+  {
+    "user_registered": "2017-10-27 13:57:50",
+    "org_code": "1283",
+    "organization": "UNC Children's Hospital"
+  },
+  {
+    "user_registered": "2016-04-19 20:19:10",
+    "org_code": "3878",
+    "organization": "Gallup Indian Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2018-07-13 17:30:07",
+    "org_code": "3902",
+    "organization": "Crouse Hospital",
+    "total": null
+  },
+  {
+    "user_registered": "2021-07-26 19:35:54",
+    "org_code": "6452",
+    "organization": "North Shore Hospital"
+  },
+  {
+    "user_registered": "2016-07-19 15:27:43",
+    "org_code": "1344",
+    "organization": "Aetna",
+    "total": 2
+  },
+  {
+    "user_registered": "2016-09-01 17:20:06",
+    "org_code": "1090",
+    "organization": "Beth Israel Deaconess Hospital - Plymouth",
+    "total": 1
+  },
+  {
+    "user_registered": "2022-04-26 14:11:00",
+    "org_code": "3846",
+    "organization": "Karmanos Cancer Center",
+    "total": 2
+  },
+  {
+    "user_registered": "2016-04-19 17:47:39",
+    "org_code": "1241",
+    "organization": "Women & Infants Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-27 18:52:47",
+    "org_code": "4378",
+    "organization": "MetroHealth Medical Center",
+    "total": null
+  },
+  {
+    "user_registered": "2017-08-26 18:31:04",
+    "org_code": "6359",
+    "organization": "Mercy Health Muskegon",
+    "total": 1
+  },
+  {
+    "user_registered": "2020-01-16 16:33:20",
+    "org_code": "7325",
+    "organization": "Mount Carmel St. Ann's",
+    "total": null
+  },
+  {
+    "user_registered": "2022-03-31 19:38:21",
+    "org_code": "7418",
+    "organization": "Robert B. Green Campus - University Health"
+  },
+  {
+    "user_registered": "2016-09-14 15:16:53",
+    "org_code": "1277",
+    "organization": "Lawrence General Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-10-05 17:30:31",
+    "org_code": "1298",
+    "organization": "Annie Penn Hospital",
+    "total": 2
+  },
+  {
+    "user_registered": "2021-01-05 16:11:01",
+    "org_code": "7423",
+    "organization": "Mary Greeley Medical Center"
+  },
+  {
+    "user_registered": "2022-01-19 20:22:58",
+    "org_code": "7502",
+    "organization": "Mayo Clinic Health System Minnesota",
+    "total": 1
+  },
+  {
+    "user_registered": "2020-02-06 13:18:36",
+    "org_code": "7282",
+    "organization": "Emory University Hospital Midtown"
+  },
+  {
+    "user_registered": "2016-04-19 17:05:12",
+    "org_code": "1123",
+    "organization": "Middlesex Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2019-08-23 13:26:18",
+    "org_code": "7269",
+    "organization": "Benchmark Senior Living: The Commons in Lincoln",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-19 17:39:06",
+    "org_code": "1039",
+    "organization": "The Moses H. Cone Memorial Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2018-04-20 18:17:25",
+    "org_code": "1013",
+    "organization": "Berkshire Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-11-02 18:23:56",
+    "org_code": "5318",
+    "organization": "MarinHealth Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-19 17:20:14",
+    "org_code": "1200",
+    "organization": "Saint Vincent Hospital, Massachusettes",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-05-04 18:12:04",
+    "org_code": "4568",
+    "organization": "Prescott House"
+  },
+  {
+    "user_registered": "2017-05-22 14:41:32",
+    "org_code": "5101",
+    "organization": "Good Samaritan Hospital (TriHealth)",
+    "total": "ohio"
+  },
+  {
+    "user_registered": "2017-10-23 12:54:01",
+    "org_code": "3407",
+    "organization": "American Family Children's Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2019-03-13 19:57:25",
+    "org_code": "7230",
+    "organization": "Memorial Sloan Kettering Westchester",
+    "total": 1
+  },
+  {
+    "user_registered": "2022-05-26 12:29:20",
+    "org_code": "1323",
+    "organization": "Jackson-Madison County General Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2018-03-19 17:09:11",
+    "org_code": "7207",
+    "organization": "Avera St. Luke's Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2018-05-11 19:23:05",
+    "org_code": "1059",
+    "organization": "Fox Chase Cancer Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-04-21 15:37:07",
+    "org_code": "1054",
+    "organization": "Emory Hospital",
+    "total": 1
+  },
+  {
+    "user_registered": "2016-09-07 16:18:48",
+    "org_code": "3900",
+    "organization": "Dignity Health",
+    "total": 1
+  },
+  {
+    "user_registered": "2020-04-06 20:11:15",
+    "org_code": "1088",
+    "organization": "JFK Medical Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2018-09-27 19:15:57",
+    "org_code": "1075",
+    "organization": "Harvard Vanguard Medical Associates Watertown",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-08-03 19:38:33",
+    "org_code": "1223",
+    "organization": "VA Boston Healthcare System, West Roxbury Campus",
+    "total": 1
+  },
+  {
+    "user_registered": "2017-05-03 11:39:37",
+    "org_code": "1",
+    "organization": "Schwartz Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2022-05-26 01:55:50",
+    "org_code": "6028",
+    "organization": "IWK Health",
+    "total": 2
+  },
+  {
+    "user_registered": "2020-03-13 13:55:21",
+    "org_code": "7336",
+    "organization": "MidMichigan Medical Center - Gratiot",
+    "total": 1
+  },
+  {
+    "user_registered": "2019-10-21 17:34:49",
+    "org_code": "6399",
+    "organization": "Laconia Center",
+    "total": 1
+  },
+  {
+    "user_registered": "2020-01-15 19:29:42",
+    "org_code": "1149",
+    "organization": "Ochsner Medical Center",
+    "total": 1
+  }
+]
